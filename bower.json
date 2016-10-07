@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "polymer": "polymer/polymer#^1.6.0",
-    "Sortable": "https://raw.githubusercontent.com/FurnaceCMS/Sortable/master/Sortable.js"
+    "Sortable": "https://github.com/FurnaceCMS/Sortable.git#^1.4.2"
   }
 }
